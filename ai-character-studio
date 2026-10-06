@@ -1,0 +1,23 @@
+AI Character Studio – Create Consistent Characters for Stories
+
+Generate detailed fictional characters and maintain their personality, appearance, and backstory across multiple stories.
+
+Features:
+
+AI character generation
+
+Character name, age, personality, abilities
+
+Backstory generation
+
+Character dialogue generator
+
+Character relationship builder
+
+Character profile/card generation
+
+Save characters as JSON
+
+Use existing characters in new stories
+
+Tech stack: Python, Gemini API, Streamlit, JSON/SQLite
