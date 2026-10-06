@@ -1,0 +1,19 @@
+AI Storyboard Generator using Gemini + Image Generation
+
+Turn a written story or script into a visual storyboard automatically.
+
+Features:
+
+Generate scenes from a story
+
+Create scene descriptions and camera angles
+
+Generate character actions and expressions
+
+Arrange scenes into storyboard panels
+
+Export storyboard as PDF/image
+
+Gemini-powered story analysis
+
+Tech stack: Python, Gemini API, FastAPI/Streamlit, image-generation API
