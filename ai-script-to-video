@@ -1,0 +1,25 @@
+AI Script-to-Video Creator using Gemini
+
+Convert a simple idea or script into a structured video plan with scenes, narration, dialogue, and visual prompts.
+
+Features:
+
+Idea → complete script
+
+Automatic scene breakdown
+
+AI-generated narration
+
+Character dialogue
+
+Shot/camera suggestions
+
+Image-generation prompts
+
+Background music suggestions
+
+Subtitle generation
+
+Export complete video production plan
+
+Tech stack: Python, Gemini API, FastAPI/Streamlit, FFmpeg
